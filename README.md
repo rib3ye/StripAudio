@@ -1,8 +1,8 @@
 # Strip Audio #
 
-Use FFMpeg on a video file to copy audio to a new file.
+Use FFmpeg on a video file to copy audio to a new file.
 
 Vibe coded garbage that just works.
 
 ## Dependencies ##
-FMpeg 8.0.1 or higher.
+FFmpeg 8.0.1 or higher.
